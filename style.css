@@ -37,18 +37,19 @@ img{
     text-align: center;
     vertical-align: top;
     float: left;
+    margin-right: 10px;
 }
 
 p.white{
-    display: inline;
-    padding: 20px;
+   
+    
     font-size: 0.75rem;
     line-height: 20px;
 }
 h2{
-    display: inline;
+    
     vertical-align: top;
-    padding: 20px;
+    
     font-size: 1rem;
 }
 
@@ -58,15 +59,14 @@ a{
 }
 
 
-span.blue{
-    margin: 20px;
+p.blue{
+    font-size: 0.75rem;
     color:lightseagreen;
+    padding:5px;
 }
 
 .background{
     background-color: black;
-    width:30%;
-    height:5rem;
     color:white;
-
+    width:30%;
 }
